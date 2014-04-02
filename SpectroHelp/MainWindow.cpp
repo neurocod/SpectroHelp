@@ -653,10 +653,7 @@ void MainWindow::maybeShowFirstLaunchWindow() {
 		"</ol>")
 		.arg(toHref("https://sourceforge.net/p/spectrohelp/wiki/Home/", "slideshow"));
 	msgBox(str);
-	//можно унаследовать от QErrorMessage, чтобы
-	//1 увеличить его размер
-	//2 получить его checkBox
-	//3 запоминать флаг между сессиями
+	//TODO: use QErrorMessage to 1) increase size 2) 'show at startup' check box
 }
 void MainWindow::messageQueueStarted() {
 	updateVisibilityButtons();
