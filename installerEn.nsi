@@ -22,7 +22,7 @@
 ; Welcome page
 !insertmacro MUI_PAGE_WELCOME
 ; License page
-!insertmacro MUI_PAGE_LICENSE "E:\N\ware\SpectroHelp\licenseEn.txt"
+!insertmacro MUI_PAGE_LICENSE "licenseEn.txt"
 ; Directory page
 !insertmacro MUI_PAGE_DIRECTORY
 ; Start menu page
@@ -49,7 +49,7 @@ var ICONS_GROUP
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "E:\N\ware\SpectroHelp\Release\SpectroHelpSetupEn109.exe"
+OutFile "x64\Release\SpectroHelpSetupEn109.exe"
 ;InstallDir "$PROGRAMFILES\SpectroHelp"
 InstallDir "$PROGRAMFILES64\SpectroHelp"
 InstallDirRegKey HKLM "${PRODUCT_DIR_REGKEY}" ""
@@ -65,7 +65,7 @@ Section "MainSection" SEC01
 	${EndIf}
 	SetOutPath "$INSTDIR"
 	SetOverwrite on
-	File "E:\N\ware\SpectroHelp\x64\Release\SpectroHelp.exe"
+	File "x64\Release\SpectroHelp.exe"
 	File "C:\Qt\Qt5.2.1\5.2.1\msvc2012_64_opengl\bin\Qt5Core.dll"
 	File "C:\Qt\Qt5.2.1\5.2.1\msvc2012_64_opengl\bin\Qt5Gui.dll"
 	File "C:\Qt\Qt5.2.1\5.2.1\msvc2012_64_opengl\bin\Qt5Widgets.dll"
