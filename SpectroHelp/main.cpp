@@ -14,7 +14,7 @@ void localQMsgHandler(QtMsgType type, const QMessageLogContext & context, const 
 		case QtFatalMsg: str = "Qt Fatal"; break;
 	}
 	str += QString(" function %1 file %2 line %3: %4").arg(context.function).arg(context.file).arg(context.line).arg(msg);
-	//LogFile::debug() << QDateTime::currentDateTime() << str << endl;
+	//str.prepend(QDateTime::currentDateTime());
 	bool prevent = msg.contains("Unable to set geometry");
 	if(!prevent && QCoreApplication::instance()->thread() == QThread::currentThread()) {
 		msgBox("Qt message", str);
@@ -22,17 +22,20 @@ void localQMsgHandler(QtMsgType type, const QMessageLogContext & context, const 
 }
 int main(int argc, char *argv[]) {
 	Application app(argc, argv);
-	//if (app.isRunning()) {
-	//	app.sendMessage("newInstance");
-	//	return 0;
-	//}
+	//after app will be QSinglaApplication again, uncomment this:
+#ifdef SINGLE_APPLICATION
+	if (app.isRunning()) {
+		app.sendMessage("newInstance");
+		return 0;
+	}
+#endif
 	g_oldMessageHandler = qInstallMessageHandler(localQMsgHandler);
 
 	MainWindow w;
-	//app.setActivationWindow(&w);
-	//QObject::connect(&app, SIGNAL(messageReceived(const QString&)),
-	//				  &w, SLOT(handleAppMessage(const QString&)));
+#ifdef SINGLE_APPLICATION
+	app.setActivationWindow(&w);
+	QObject::connect(&app, SIGNAL(messageReceived(const QString&)), &w, SLOT(handleAppMessage(const QString&)));
+#endif
 	w.showMaximized();
-	//w.showExample();
 	return app.exec();
 }

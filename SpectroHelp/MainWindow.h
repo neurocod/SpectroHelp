@@ -35,7 +35,7 @@ class MainWindow: public QMainWindow {
 		void messageQueueStarted();
 		void sendFeedback();
 
-		void video();
+		void startVideo();
 		void videoR();
 		void videoL();
 		void videoT();//top
@@ -64,7 +64,7 @@ class MainWindow: public QMainWindow {
 		QAction* m_actShowColorScheme;
 		QAction* m_actShowAnimation;
 
-		void video(Qt::Alignment side);
+		void startVideo(Qt::Alignment side);
 		virtual void keyPressEvent(QKeyEvent * event);
 		virtual void closeEvent(QCloseEvent * event);
 		virtual void changeEvent(QEvent * event);

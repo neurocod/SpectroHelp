@@ -335,7 +335,7 @@ void MainWindow::showAbout() {
 			"<br>\nSome icons by <a href=\"http://p.yusukekamiyamane.com/\">Yusuke Kamiyamane</a> and <a href=\"http://turbomilk.com/\">Turbomilk</a>.");
 	QMessageBox::information(this, rtr(L"О программе", "About ") + m_strProgramName, str);
 }
-void MainWindow::video(Qt::Alignment side) {
+void MainWindow::startVideo(Qt::Alignment side) {
 	switch(side) {
 	case Qt::AlignRight:
 	case Qt::AlignLeft:
@@ -386,20 +386,23 @@ void MainWindow::video(Qt::Alignment side) {
 	m_view->verticalScrollBar()->setValue(yScroll);
 	m_view->horizontalScrollBar()->setValue(xScroll);
 	m_scene->setInAnimationMode(true);
+	m_dockDemo->hide();
+	m_dockNames->hide();
+	updateVisibilityButtons();
 }
 void MainWindow::videoR() {
-	video(Qt::AlignRight);
+	startVideo(Qt::AlignRight);
 }
 void MainWindow::videoL() {
-	video(Qt::AlignLeft);
+	startVideo(Qt::AlignLeft);
 }
 void MainWindow::videoT() {
-	video(Qt::AlignTop);
+	startVideo(Qt::AlignTop);
 }
 void MainWindow::videoB() {
-	video(Qt::AlignBottom);
+	startVideo(Qt::AlignBottom);
 }
-void MainWindow::video() {
+void MainWindow::startVideo() {
 	m_scene->setInAnimationMode(!m_scene->inAnimationMode());
 	//TODO: use last position
 }
@@ -418,7 +421,7 @@ void MainWindow::addVideoMenu(ToolBar & toolbar) {
 		actFilm.shortcutContext = Qt::ApplicationShortcut;
 		actFilm.checkable = true;
 		actFilm.addShortcutToTooltip();
-		actFilm.connectClicks(this, SLOT(video()));
+		actFilm.connectClicks(this, SLOT(startVideo()));
 		m_actShowAnimation = actFilm;
 		connect(m_scene, SIGNAL(animationModeChanged(bool)), m_actShowAnimation, SLOT(setChecked(bool)));
 		btnMenu << actFilm;
