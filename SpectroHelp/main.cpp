@@ -2,7 +2,6 @@
 #include "pch.h"
 #include "MainWindow.h"
 #include "EApp.h"
-#include <QtNetwork>
 
 QtMessageHandler g_oldMessageHandler;
 void localQMsgHandler(QtMsgType type, const QMessageLogContext & context, const QString & msg) {
