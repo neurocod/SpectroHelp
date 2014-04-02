@@ -33,7 +33,7 @@ EGScene::EGScene(QObject * parent): QGraphicsScene(parent) {
 	m_tooltipColor->hide();
 	setImage(QImage());
 #ifdef _DEBUG
-	/*loadImage("E:\\neuro img\\EyeWave\\demo\\"
+	/*loadImage("E:\\demo\\"
 		"testImage.png"
 		//"PieChart.gif"
 		);*/
@@ -167,8 +167,6 @@ void EGScene::invalidate() {
 QImage QImage_grabWindow(WId winId, int x=0, int y=0, int w=-1, int h=-1);
 void EGScene::shootScreen() {
 	auto winid = QApplication::desktop()->winId();
-	//clear image for low memory situations on embedded devices
-	//QPixmap p = QPixmap::grabWindow(winid);
 	auto img = QImage_grabWindow(winid);
 	setImage(img);
 }
@@ -326,7 +324,7 @@ void EGScene::test() {
 			}
 	int g=3;*/
 
-	//QString file = QString("E:\\neuro img\\EyeWae\\gif\\%1.png");
+	//QString file = QString("E:\\test\\gif\\%1.png");
 	//saveImage(m_dst, file);
 }
 void EGScene::test(int r, int g, int b) {
@@ -442,8 +440,8 @@ void EGScene::generateDemo() {
 	invalidate();
 }
 void EGScene::createGifFromWave() {
-	loadImage("E:\\neuro img\\EyeWave\\slide\\en\\tokyo.png");
-	QString folder = "E:\\neuro img\\EyeWave\\gif\\subway\\2\\";
+	loadImage("E:\\test\\tokyo.png");
+	QString folder = "E:\\test\\subway\\2\\";
 	if(!QDir().exists(folder)) {
 		msgBox("!exists " + folder);
 		return;

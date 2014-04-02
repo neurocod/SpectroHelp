@@ -10,6 +10,6 @@ class DockWidget: public QDockWidget {
 	signals:
 		void hiddenByClose();
 	protected:
-		bool m_bHideOnClise;
+		bool m_bHideOnClose;
 		virtual void closeEvent(QCloseEvent * event);
 };

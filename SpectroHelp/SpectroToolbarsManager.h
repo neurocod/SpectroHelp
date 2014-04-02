@@ -3,6 +3,7 @@
 #include "EGScene.h"
 #include "PreviewTabBar.h"
 
+//Synch all toolbars
 class SpectroToolbarsManager: public QObject {
 	Q_OBJECT
 	public:

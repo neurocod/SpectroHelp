@@ -18,6 +18,4 @@ class SettingsHash: public QVariantHash {
 	protected:
 		InitializedPod<bool, false> m_bUseSettingsFile;
 		void synchWithQSettings(bool saveToQSettings);
-		//QByteArray toByteArray()const;
-		//void fromByteArray(QByteArray arr);
 };

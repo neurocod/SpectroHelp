@@ -15,7 +15,8 @@ void localQMsgHandler(QtMsgType type, const QMessageLogContext & context, const 
 	}
 	str += QString(" function %1 file %2 line %3: %4").arg(context.function).arg(context.file).arg(context.line).arg(msg);
 	//LogFile::debug() << QDateTime::currentDateTime() << str << endl;
-	if(QCoreApplication::instance()->thread() == QThread::currentThread()) {
+	bool prevent = msg.contains("Unable to set geometry");
+	if(!prevent && QCoreApplication::instance()->thread() == QThread::currentThread()) {
 		msgBox("Qt message", str);
 	}
 }

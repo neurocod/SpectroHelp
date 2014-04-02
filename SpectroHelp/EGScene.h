@@ -22,7 +22,7 @@ class EGScene: public QGraphicsScene, public ImageModifier {
 		bool inAnimationMode()const { return m_bInAnimation; }
 		void setInAnimationMode(bool b);
 		bool isShowingToolTip()const { return m_tooltipColor->m_bShowToolTip; }
-		//for neurocod
+		//to create presentations for web-site
 		void createGifFromWave();
 		void invalidate(bool bRequestOtherWindow);
 	public slots:

@@ -3,6 +3,7 @@
 #include "SettingsHash.h"
 
 //PersistentTimer supports big intervals (say weeks), serialization, and continues to work after deserialization
+//Was used for autoupdate checks
 class PersistentTimer: public QObject {
 	Q_OBJECT
 	public:

@@ -4,14 +4,14 @@
 
 DockWidget::DockWidget(const QString & title, QWidget * parent, Qt::WindowFlags flags):
 		QDockWidget(title, parent, flags) {
-	m_bHideOnClise = true;
+	m_bHideOnClose = true;
 	setObjectName(title);
 }
 DockWidget::DockWidget(QWidget * parent, Qt::WindowFlags flags): QDockWidget(parent, flags) {
-	m_bHideOnClise = true;
+	m_bHideOnClose = true;
 }
 void DockWidget::closeEvent(QCloseEvent * event) {
-	if(m_bHideOnClise) {
+	if(m_bHideOnClose) {
 		event->ignore();
 		hide();
 		emit hiddenByClose();

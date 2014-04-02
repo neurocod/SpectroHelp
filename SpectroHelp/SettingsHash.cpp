@@ -37,21 +37,3 @@ void SettingsHash::synchWithQSettings(bool saveToQSettings) {
 	//	fromByteArray(arr);
 	//}
 }
-/*
-to save space twixe in INI file format (and write ff instead of \xff ):
-QByteArray SettingsHash::toByteArray()const {
-	QByteArray ret;
-	{
-		QDataStream stream(&ret, QIODevice::WriteOnly);
-		stream << QVariant(*this);
-	}
-	//TODO: arr -> hex encode
-	return ret;
-}
-void SettingsHash::fromByteArray(QByteArray arr) {
-	//TODO: arr -> hex decode
-	QDataStream stream(&arr, QIODevice::ReadOnly);
-	QVariant v;
-	stream >> v;
-	*static_cast<QVariantHash*>(this) = v.toHash();
-}*/
