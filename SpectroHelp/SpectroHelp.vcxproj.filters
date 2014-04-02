@@ -58,9 +58,6 @@
       <Extensions>cpp;moc</Extensions>
       <SourceControlFiles>False</SourceControlFiles>
     </Filter>
-    <Filter Include="disphelper">
-      <UniqueIdentifier>{4e657729-1fda-4daf-a37e-470d09c07b24}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Qxt">
       <UniqueIdentifier>{eec01974-b758-47ba-a4a4-2d44da5817c1}</UniqueIdentifier>
     </Filter>
@@ -203,30 +200,6 @@
     </ClCompile>
     <ClCompile Include="ColorProfileDesc.cpp">
       <Filter>scene</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\convert.c">
-      <Filter>disphelper</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\dh_core.c">
-      <Filter>disphelper</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\dh_create.c">
-      <Filter>disphelper</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\dh_enum.c">
-      <Filter>disphelper</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\dh_exceptions.c">
-      <Filter>disphelper</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\dh_extra.c">
-      <Filter>disphelper</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\dh_init.c">
-      <Filter>disphelper</Filter>
-    </ClCompile>
-    <ClCompile Include="disphelper\dh_invoke.c">
-      <Filter>disphelper</Filter>
     </ClCompile>
     <ClCompile Include="PersistentTimer.cpp">
       <Filter>Source Files</Filter>
@@ -629,12 +602,6 @@
     </CustomBuild>
     <CustomBuild Include="ColorToolTipItem.h">
       <Filter>scene</Filter>
-    </CustomBuild>
-    <CustomBuild Include="disphelper\convert.h">
-      <Filter>disphelper</Filter>
-    </CustomBuild>
-    <CustomBuild Include="disphelper\disphelper.h">
-      <Filter>disphelper</Filter>
     </CustomBuild>
     <CustomBuild Include="Qxt\gui\qxtglobalshortcut.h">
       <Filter>Qxt</Filter>
