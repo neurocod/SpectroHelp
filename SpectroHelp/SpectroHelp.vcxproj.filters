@@ -138,9 +138,6 @@
     <ClCompile Include="ColorNameItem.cpp">
       <Filter>name</Filter>
     </ClCompile>
-    <ClCompile Include="EApp.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
     <ClCompile Include="Arrow.cpp">
       <Filter>demo</Filter>
     </ClCompile>
@@ -468,6 +465,9 @@
     <ClCompile Include="GeneratedFiles\Debug ru\moc_MainWindow.cpp">
       <Filter>Generated Files\Debug ru</Filter>
     </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <CustomBuild Include="ColorNameTableView.h">
@@ -477,9 +477,6 @@
       <Filter>scene</Filter>
     </CustomBuild>
     <CustomBuild Include="PersistentTimer.h">
-      <Filter>Header Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="EApp.h">
       <Filter>Header Files</Filter>
     </CustomBuild>
     <CustomBuild Include="DockWidget.h">
@@ -500,9 +497,6 @@
     <CustomBuild Include="SpectroHelp.ico" />
     <CustomBuild Include="TextWithBorderGraphicsItem.h">
       <Filter>Source Files</Filter>
-    </CustomBuild>
-    <CustomBuild Include="Hash2.h">
-      <Filter>Header Files</Filter>
     </CustomBuild>
     <CustomBuild Include="InitializedPod.h">
       <Filter>Header Files</Filter>
@@ -631,6 +625,9 @@
       <Filter>Resource Files\ico</Filter>
     </CustomBuild>
     <CustomBuild Include="MainWindow.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Application.h">
       <Filter>Header Files</Filter>
     </CustomBuild>
   </ItemGroup>
