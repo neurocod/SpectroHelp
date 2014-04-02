@@ -1,12 +1,12 @@
-//EApp.h by Kostya Kozachuck as neurocod
+//Application.h by Kostya Kozachuck as neurocod
 #pragma once
 //#include <qtsingleapplication.h>
 
-class EApp:
+class Application:
 	//public QtSingleApplication {
 	public QApplication
 {
 	public:
-		EApp(int &argc, char **argv);
-		virtual ~EApp() {}
+		Application(int &argc, char **argv);
+		virtual ~Application() {}
 };

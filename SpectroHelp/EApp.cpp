@@ -1,8 +1,8 @@
-//EApp.cpp by Kostya Kozachuck as neurocod
+//Application.cpp by Kostya Kozachuck as neurocod
 #include "pch.h"
-#include "EApp.h"
+#include "Application.h"
 
-EApp::EApp(int &argc, char **argv): QApplication(argc, argv) {
+Application::Application(int &argc, char **argv): QApplication(argc, argv) {
 	QCoreApplication::setOrganizationName("SpectroHelp.com");
 	QCoreApplication::setOrganizationDomain("SpectroHelp.com");
 	QCoreApplication::setApplicationName("SpectroHelp");

@@ -1,7 +1,7 @@
 //main.cpp by Kostya Kozachuck as neurocod
 #include "pch.h"
 #include "MainWindow.h"
-#include "EApp.h"
+#include "Application.h"
 
 QtMessageHandler g_oldMessageHandler;
 void localQMsgHandler(QtMsgType type, const QMessageLogContext & context, const QString & msg) {
@@ -20,7 +20,7 @@ void localQMsgHandler(QtMsgType type, const QMessageLogContext & context, const 
 	}
 }
 int main(int argc, char *argv[]) {
-	EApp app(argc, argv);
+	Application app(argc, argv);
 	//if (app.isRunning()) {
 	//	app.sendMessage("newInstance");
 	//	return 0;
