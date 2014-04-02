@@ -1,0 +1,9 @@
+#include <QtCore/QtCore>
+#include <QtGui/QtGui>
+#include <QtWidgets/QtWidgets>
+#include <QtNetwork/QtNetwork>
+#define NEED_INCLUDE_QNETWORK
+#include "Qqt/includeMe.h"
+#include "Qqt/RString.h"
+//#include "XElement.h"
+//#include "XTagList.h"

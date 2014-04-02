@@ -1,0 +1,2 @@
+Latest valid configuration is Visual Studio 2012 + Qt 5.1.2 + x64, Release and Debug targets.
+NSIS installer is prepared for this configuration, and VS2012 project settings.

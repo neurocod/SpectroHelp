@@ -1,0 +1,22 @@
+<RCC>
+  <qresource prefix="/">
+	<file>ColorNameEn.txt</file>
+	<file>images/tooltip24.png</file>
+	<file>SpectroHelp.ico</file>
+	<file>images/ico/16.png</file>
+	<file>images/ico/32.png</file>
+	<file>images/ico/48.png</file>
+	<file>images/ico/256.png</file>
+	<file>images/questionRect.png</file>
+	<file>images/table.png</file>
+	<file>images/gear24.png</file>
+	<file>images/camera24.png</file>
+	<file>images/forge/24/sitemap.png</file>
+	<file>images/forge/24/monitor.png</file>
+	<file>images/forge/24/stamp.png</file>
+	<file>images/forge/24/film.png</file>
+	<file>images/forge/24/folder-horizontal-open.png</file>
+	<file>images/forge/24/color.png</file>
+	<file>images/forge/24/disk-black.png</file>
+  </qresource>
+</RCC>

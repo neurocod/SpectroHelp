@@ -1,0 +1,855 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;cxx;c;def</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h</Extensions>
+    </Filter>
+    <Filter Include="Form Files">
+      <UniqueIdentifier>{99349809-55BA-4b9d-BF79-8FDBB0286EB3}</UniqueIdentifier>
+      <Extensions>ui</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{D9D6E242-F8AF-46E4-B9FD-80ECBC20BA3E}</UniqueIdentifier>
+      <Extensions>qrc;*</Extensions>
+      <ParseFiles>false</ParseFiles>
+    </Filter>
+    <Filter Include="Generated Files">
+      <UniqueIdentifier>{71ED8ED8-ACB9-4CE9-BBE1-E00B30144E11}</UniqueIdentifier>
+      <Extensions>moc;h;cpp</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Debug">
+      <UniqueIdentifier>{8325dcfb-5728-4551-b4af-85b70258c1ed}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release">
+      <UniqueIdentifier>{019a6228-b929-4296-89f3-276838a8f771}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="colors">
+      <UniqueIdentifier>{a97e4f4f-042c-4fde-a240-ab1cfb0036a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="demo">
+      <UniqueIdentifier>{737418a3-f000-45ab-a8c5-97c571a02633}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="myQt">
+      <UniqueIdentifier>{260cb211-3306-4299-951b-895efb5c5447}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="name">
+      <UniqueIdentifier>{6db439f9-6c8b-4fd8-9830-caaca50ae54d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scene">
+      <UniqueIdentifier>{f0fb4e5b-0f41-4a0f-994f-09aaa73fc7eb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated Files\Debug ru">
+      <UniqueIdentifier>{0eb63faa-37fa-4916-9a16-c2576189c104}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="Generated Files\Release ru">
+      <UniqueIdentifier>{3fdc9fb3-9660-4f5c-a4ca-c99f99f36622}</UniqueIdentifier>
+      <Extensions>cpp;moc</Extensions>
+      <SourceControlFiles>False</SourceControlFiles>
+    </Filter>
+    <Filter Include="disphelper">
+      <UniqueIdentifier>{4e657729-1fda-4daf-a37e-470d09c07b24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Qxt">
+      <UniqueIdentifier>{eec01974-b758-47ba-a4a4-2d44da5817c1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Qqt">
+      <UniqueIdentifier>{0fae9215-12d9-4e75-87b2-60ca0269abbc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\ico">
+      <UniqueIdentifier>{a0df796e-0c20-42a5-b630-5cc2e2bdee00}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\images">
+      <UniqueIdentifier>{7bcf63cf-c8a8-4ae4-adce-976eee4600f5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\images\forge">
+      <UniqueIdentifier>{374ad189-7af4-4bc5-9097-79ebec0acdcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\images\forge\24">
+      <UniqueIdentifier>{af3d4ef2-bd5f-4d49-9002-87d2fa553b89}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="win.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TextWithBorderGraphicsItem.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ABColor.cpp">
+      <Filter>colors</Filter>
+    </ClCompile>
+    <ClCompile Include="HsvToRgb.cpp">
+      <Filter>colors</Filter>
+    </ClCompile>
+    <ClCompile Include="RgbToHsv.cpp">
+      <Filter>colors</Filter>
+    </ClCompile>
+    <ClCompile Include="WaveMask.cpp">
+      <Filter>colors</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorTransformationTable.cpp">
+      <Filter>colors</Filter>
+    </ClCompile>
+    <ClCompile Include="DemoScene.cpp">
+      <Filter>demo</Filter>
+    </ClCompile>
+    <ClCompile Include="GridItemsLayout.cpp">
+      <Filter>myQt</Filter>
+    </ClCompile>
+    <ClCompile Include="BoundingRectLayoutItem.cpp">
+      <Filter>myQt</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsLinearLayout.cpp">
+      <Filter>myQt</Filter>
+    </ClCompile>
+    <ClCompile Include="DemoVisionDiagram.cpp">
+      <Filter>demo</Filter>
+    </ClCompile>
+    <ClCompile Include="DockWidget.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorNameList.cpp">
+      <Filter>name</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorNameTableModel.cpp">
+      <Filter>name</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorNameTableView.cpp">
+      <Filter>name</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorNameTableWidget.cpp">
+      <Filter>name</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorNameItem.cpp">
+      <Filter>name</Filter>
+    </ClCompile>
+    <ClCompile Include="EApp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Arrow.cpp">
+      <Filter>demo</Filter>
+    </ClCompile>
+    <ClCompile Include="EGView.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="EGScene.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorToolTipItem.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="HslToRgb.cpp">
+      <Filter>colors</Filter>
+    </ClCompile>
+    <ClCompile Include="Image.cpp">
+      <Filter>colors</Filter>
+    </ClCompile>
+    <ClCompile Include="RgbItemDelegate.cpp">
+      <Filter>name</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsDialog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DemoPixelDiagram.cpp">
+      <Filter>demo</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsBoxLayout.cpp">
+      <Filter>myQt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_EGScene.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_EGScene.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_EGScene.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_EGScene.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_ColorNameTableView.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_ColorNameTableView.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_ColorNameTableView.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_ColorNameTableView.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GraphicsTextItem.cpp">
+      <Filter>myQt</Filter>
+    </ClCompile>
+    <ClCompile Include="ColorProfileDesc.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\convert.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\dh_core.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\dh_create.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\dh_enum.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\dh_exceptions.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\dh_extra.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\dh_init.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="disphelper\dh_invoke.c">
+      <Filter>disphelper</Filter>
+    </ClCompile>
+    <ClCompile Include="PersistentTimer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_PersistentTimer.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_PersistentTimer.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_PersistentTimer.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_PersistentTimer.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_DockWidget.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_DockWidget.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_DockWidget.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_DockWidget.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="PreviewTabBar.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="SpectroToolbarsManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_SpectroToolbarsManager.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_SpectroToolbarsManager.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_SpectroToolbarsManager.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_SpectroToolbarsManager.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\qrc_SpectroHelp.cpp">
+      <Filter>Generated Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ImageModifier.cpp">
+      <Filter>scene</Filter>
+    </ClCompile>
+    <ClCompile Include="SettingsHash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Qxt\gui\qxtglobalshortcut.cpp">
+      <Filter>Qxt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_qxtglobalshortcut.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qxtglobalshortcut.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_qxtglobalshortcut.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_qxtglobalshortcut.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="Qxt\gui\qxtglobalshortcut_win.cpp">
+      <Filter>Qxt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qxt\gui\qxtlabel.cpp">
+      <Filter>Qxt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_qxtlabel.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qxtlabel.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_qxtlabel.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_qxtlabel.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="Qxt\core\qxtglobal.cpp">
+      <Filter>Qxt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_qxtnamespace.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_qxtnamespace.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_qxtnamespace.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_qxtnamespace.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\AbstractButtonPropertyRedirects.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\AbstractSpinBoxPropertyRedirects.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Action.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\BoxLayout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\ButtonGroup.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\CheckBox.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\ComboBox.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\CompactHBoxLayout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\CompactVBoxLayout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\DirString.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\FileFacility.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\FileReader.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\FileWriter.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\FormLayout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\GridLayout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\GroupBox.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\HBoxLayout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Label.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Layout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\LineEdit.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Menu.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\MsgBox.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\NLStyle.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Object.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\ProgressBar.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\PushButton.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\RadioButton.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\RotatableToolBar.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_RotatableToolBar.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_RotatableToolBar.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_RotatableToolBar.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_RotatableToolBar.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Settings.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\SignalEmitter.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_SignalEmitter.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_SignalEmitter.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_SignalEmitter.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_SignalEmitter.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\SpinBox.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Splitter.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\TabWidget.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\ToolBar.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\ToolButton.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\ToString.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\VBoxLayout.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Widget.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\WidgetPropertyRedirects.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\Parser.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\RString.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="Qqt\ReadStatus.cpp">
+      <Filter>Qqt</Filter>
+    </ClCompile>
+    <ClCompile Include="MainWindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug\moc_MainWindow.cpp">
+      <Filter>Generated Files\Debug</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release\moc_MainWindow.cpp">
+      <Filter>Generated Files\Release</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Release ru\moc_MainWindow.cpp">
+      <Filter>Generated Files\Release ru</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneratedFiles\Debug ru\moc_MainWindow.cpp">
+      <Filter>Generated Files\Debug ru</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="ColorNameTableView.h">
+      <Filter>name</Filter>
+    </CustomBuild>
+    <CustomBuild Include="EGScene.h">
+      <Filter>scene</Filter>
+    </CustomBuild>
+    <CustomBuild Include="PersistentTimer.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="EApp.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="DockWidget.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="EGView.h">
+      <Filter>scene</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SpectroToolbarsManager.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SpectroHelp.qrc">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ImageModifier.h">
+      <Filter>scene</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SpectroHelp.ico" />
+    <CustomBuild Include="TextWithBorderGraphicsItem.h">
+      <Filter>Source Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Hash2.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="InitializedPod.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="PreviewTabBar.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SettingsDialog.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="SettingsHash.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="win.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="pch.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="images\tooltip24.png">
+      <Filter>Resource Files</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ABColor.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorTransformationTable.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="HslToRgb.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="HsvToRgb.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="HsxToRgb.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Image.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="RgbToHsv.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Vector2d.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="WaveMask.h">
+      <Filter>colors</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Arrow.h">
+      <Filter>demo</Filter>
+    </CustomBuild>
+    <CustomBuild Include="DemoPixelDiagram.h">
+      <Filter>demo</Filter>
+    </CustomBuild>
+    <CustomBuild Include="DemoScene.h">
+      <Filter>demo</Filter>
+    </CustomBuild>
+    <CustomBuild Include="DemoVisionDiagram.h">
+      <Filter>demo</Filter>
+    </CustomBuild>
+    <CustomBuild Include="BoundingRectLayoutItem.h">
+      <Filter>myQt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GraphicsBoxLayout.h">
+      <Filter>myQt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GraphicsLinearLayout.h">
+      <Filter>myQt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GraphicsTextItem.h">
+      <Filter>myQt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="GridItemsLayout.h">
+      <Filter>myQt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorNameItem.h">
+      <Filter>name</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorNameList.h">
+      <Filter>name</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorNameTableModel.h">
+      <Filter>name</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorNameTableWidget.h">
+      <Filter>name</Filter>
+    </CustomBuild>
+    <CustomBuild Include="RgbItemDelegate.h">
+      <Filter>name</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorNameEn.txt">
+      <Filter>name</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorProfileDesc.h">
+      <Filter>scene</Filter>
+    </CustomBuild>
+    <CustomBuild Include="ColorToolTipItem.h">
+      <Filter>scene</Filter>
+    </CustomBuild>
+    <CustomBuild Include="disphelper\convert.h">
+      <Filter>disphelper</Filter>
+    </CustomBuild>
+    <CustomBuild Include="disphelper\disphelper.h">
+      <Filter>disphelper</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Qxt\gui\qxtglobalshortcut.h">
+      <Filter>Qxt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Qxt\gui\qxtlabel.h">
+      <Filter>Qxt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Qxt\core\qxtnamespace.h">
+      <Filter>Qxt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Qqt\RotatableToolBar.h">
+      <Filter>Qqt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="Qqt\SignalEmitter.h">
+      <Filter>Qqt</Filter>
+    </CustomBuild>
+    <CustomBuild Include="images\ico\16.png">
+      <Filter>Resource Files\ico</Filter>
+    </CustomBuild>
+    <CustomBuild Include="images\ico\256.png">
+      <Filter>Resource Files\ico</Filter>
+    </CustomBuild>
+    <CustomBuild Include="images\ico\32.png">
+      <Filter>Resource Files\ico</Filter>
+    </CustomBuild>
+    <CustomBuild Include="images\ico\48.png">
+      <Filter>Resource Files\ico</Filter>
+    </CustomBuild>
+    <CustomBuild Include="MainWindow.h">
+      <Filter>Header Files</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="SpectroHelp.rc" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Qxt\gui\qxtglobalshortcut_p.h">
+      <Filter>Qxt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qxt\core\qxtglobal.h">
+      <Filter>Qxt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\AbstractButtonPropertyRedirects.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\AbstractSpinBoxPropertyRedirects.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Action.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\BoxLayout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ButtonGroup.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ByteArrayWithDataStream.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\CheckBox.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ComboBox.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\CompactHBoxLayout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\CompactVBoxLayout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\CtorProcessorT.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\DirString.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\FileFacility.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\FileReader.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\FileWriter.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\FormLayout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\GridLayout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\GroupBox.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\HBoxLayout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\includeMe.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Label.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Layout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\LineEdit.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Menu.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\MsgBox.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\New.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\NLStyle.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Object.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\preprocessor.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ProgressBar.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\PropertyRedirect.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\PushButton.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\RadioButton.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Settings.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\SpinBox.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Splitter.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\TabWidget.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ToolBar.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ToolButton.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\TopResult.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ToString.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\VBoxLayout.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Widget.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\WidgetPropertyRedirects.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\Parser.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\RString.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+    <ClInclude Include="Qqt\ReadStatus.h">
+      <Filter>Qqt</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="images\table.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\forge\24\sitemap.png">
+      <Filter>Resource Files\images\forge\24</Filter>
+    </Image>
+    <Image Include="images\gear24.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\camera24.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+    <Image Include="images\forge\24\monitor.png">
+      <Filter>Resource Files\images\forge\24</Filter>
+    </Image>
+    <Image Include="images\forge\24\stamp.png">
+      <Filter>Resource Files\images\forge\24</Filter>
+    </Image>
+    <Image Include="images\forge\24\film.png">
+      <Filter>Resource Files\images\forge\24</Filter>
+    </Image>
+    <Image Include="images\forge\24\folder-horizontal-open.png">
+      <Filter>Resource Files\images\forge\24</Filter>
+    </Image>
+    <Image Include="images\forge\24\color.png" />
+    <Image Include="images\forge\24\disk-black.png">
+      <Filter>Resource Files\images\forge\24</Filter>
+    </Image>
+    <Image Include="images\questionRect.png">
+      <Filter>Resource Files\images</Filter>
+    </Image>
+  </ItemGroup>
+</Project>

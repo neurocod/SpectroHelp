@@ -1,0 +1,806 @@
+//this is comment - only SOL and //
+//file from http://en.wikipedia.org/wiki/List_of_colors
+//first go primary colors group, than - all
+#FFFFFF White	
+#C0C0C0 Silver	
+#808080 Gray	
+#808080 Grey	
+#000000 Black	
+#FF0000 Red		
+#800000 Maroon	
+#FFFF00 Yellow	
+#808000 Olive	
+#00FF00 Lime	
+#008000 Green	
+#00FFFF Aqua	
+#00FFFF Cyan
+#008080 Teal	
+#0000FF Blue	
+#000080 Navy	
+#FF00FF Fuchsia	
+#800080 Purple
+#8F00FF Violet 
+#FF7F00 Orange	
+#964B00 Brown	
+#FFC0CB Pink	
+//{ALL}
+//remove {{Colort}}
+//remove |}
+//replace {{Colort/Color|hex= with #
+//remove |web_safe={{yes}}}}
+#5D8AA8 [[Air Force blue]]}}
+#F0F8FF [[Alice blue]]}}
+#E32636 [[Alizarin crimson (color)|Alizarin crimson]]}}
+#EFDECD [[List of Crayola crayon colors#Standard Colors|Almond]]}}
+#E52B50 [[Amaranth (color)|Amaranth]]}}
+#FFBF00 [[Amber (color)|Amber]]}}
+#FF7E00 [[Amber (color)#SAE/ECE amber|Amber (SAE/ECE)]]}}
+#FF033E [[Rose (color)#American Rose|American rose]]}}
+#9966CC [[Amethyst (color)|Amethyst]]
+#A4C639 [[Android (operating system)#Marketing|Android Green]]}}
+#F2F3F4 [[Anti-flash white]]}}
+#CD9575 [[List of Crayola crayon colors#Standard Colors|Antique brass]]}}
+#915C83 [[Fuchsia (color)#Antique fuchsia|Antique fuchsia]]}}
+#FAEBD7 [[Antique white]]}}
+#008000 [[Ao (color)|Ao (English)]]}}
+#8DB600 [[Chartreuse (color)#Apple green|Apple green]]}}
+#FBCEB1 [[Apricot (color)|Apricot]]}}
+#00FFFF [[Aqua (color)|Aqua]]
+#7FFFD4 [[Aquamarine (color)|Aquamarine]]}}
+#4B5320 [[Variations of green#Army green|Army green]]}}
+#E9D66B [[Arylide yellow]]}}
+#B2BEB5 [[Ash grey]]}}
+#87A96B [[Variations of green#Asparagus|Asparagus]]}}
+#FF9966 [[Variations of orange#Atomic tangerine|Atomic tangerine]]}}
+#A52A2A [[Auburn hair#The color auburn|Auburn]]}}
+#FDEE00 [[Aureolin]]}}
+#6E7F80 [[List of Crayola colored pencil colors#Standard colors|AuroMetalSaurus]]}}
+#FF2052 [[Awesome]]}}
+#007FFF [[Azure (color)|Azure]]}}
+#F0FFFF [[Azure (color)#Azure mist (web color azure)|Azure mist/web]]}}
+#89CFF0 [[Baby blue]]}}
+#A1CAF1 [[Baby blue#Baby blue eyes|Baby blue eyes]]}}
+#F4C2C2 [[Variations of pink#Baby pink|Baby pink]]}}
+#21ABCD [[List of Crayola colored pencil colors#Standard colors|Ball Blue]]}}
+#FAE7B5 [[List of Crayola crayon colors#Standard Colors|Banana Mania]]}}
+#FFE135 [[Banana|Banana yellow]]}}
+#848482 [[Battleship grey]]}}
+#98777B [[Rose (color)#Bazaar-Marinia|Bazaar]]}}
+#BCD4E6 [[Baby blue#Beau blue|Beau blue]]}}
+#9F8170 [[List of Crayola crayon colors#Standard Colors|Beaver]]}}
+#F5F5DC [[Beige]]}}
+#FFE4C4 [[X11 color names#Color names|Bisque]]}}
+#3D2B1F [[Bistre]]}}
+#FE6F5E [[Variations of orange#Bittersweet|Bittersweet]]}}
+#000000 [[Black]]|html_ Black
+#FFEBCD [[Blanched Almond]]}}
+#318CE7 [[Bleu de France (colour)|Bleu de France]]}}
+#ACE5EE [[List of Crayola crayon colors#Standard Colors|Blizzard Blue]]}}
+#FAF0BE [[Blond]]}}
+#0000FF [[Blue]]|html_ Blue
+#0093AF [[Variations of blue#Blue (Munsell)|Blue (Munsell)]]}}
+#0087BD [[Variations of blue#Blue (NCS)|Blue (NCS)]]}}
+#333399 [[Variations of blue#Blue (CMYK) (pigment blue)|Blue (pigment)]]}}
+#0247FE [[RYB color model|Blue (RYB)]]}}
+#A2A2D0 [[List of Crayola crayon colors#Standard Colors|Blue Bell]]}}
+#6699CC [[List of Crayola crayon colors#Standard Colors|Blue Gray]]}}
+#0D98BA [[Blue-green]]}}
+#8A2BE2 [[Indigo#Deep indigo (web color blue-violet)|Blue-violet]]}}
+#DE5D83 [[List of Crayola crayon colors#Standard Colors|Blush]]}}
+#79443B [[Bole (color)|Bole]]}}
+#0095B6 [[Bondi blue]]}}
+#E3DAC9 [[Variations of white#Bone|Bone]]}}
+#CC0000 [[Scarlet (color)#School colors|Boston University Red]]}}
+#006A4E [[Bottle green]]}}
+#873260 [[Boysenberry (color)|Boysenberry]]}}
+#0070FF [[Brandeis blue]]}}
+#B5A642 [[Brass]]}}
+#CB4154 [[List of Crayola crayon colors#Standard Colors|Brick red]]}}
+#1DACD6 [[Cerulean#Bright cerulean|Bright cerulean]]}}
+#66FF00 [[Variations of green#Bright green|Bright green]]
+#BF94E4 [[Lavender (color)#Bright lavender (light floral lavender) (lavender bandana)|Bright lavender]]}}
+#C32148 [[Maroon (color)#Bright maroon|Bright maroon]]}}
+#FF007F [[Variations of pink#Bright pink|Bright pink]]}}
+#08E8DE [[Turquoise (color)#Bright Turquoise|Bright turquoise]]}}
+#D19FE8 [[Lavender (color)#Bright ?be|Bright ube]]}}
+#F4BBFF [[Lavender (color)#Brilliant lavender (electric lavender)|Brilliant lavender]]}}
+#FF55A3 [[Rose (color)#Brilliant Rose|Brilliant rose]]}}
+#FB607F [[Rose (color)#Brink Pink|Brink pink]]}}
+#004225 [[British racing green]]}}
+#CD7F32 [[Bronze (color)|Bronze]]}}
+#964B00 [[Brown|Brown (traditional)]]}}
+#A52A2A [[Brown#Red-brown (web color "brown")|Brown (web)]]}}
+#FFC1CC [[List of Crayola colored pencil colors#Standard colors|Bubble gum]]}}
+#E7FEFF [[Baby blue#Bubbles|Bubbles]]}}
+#F0DC82 [[Buff (colour)|Buff]]}}
+#480607 [[Rose (color)#Bulgarian Rose|Bulgarian rose]]}}
+#800020 [[Burgundy (color)|Burgundy]]}}
+#DEB887 [[X11 color names#Color names identical between X11 and HTML/CSS|Burlywood]]}}
+#CC5500 [[Orange (color)#Burnt orange|Burnt orange]]}}
+#E97451 [[Burnt sienna]]}}
+#8A3324 [[Burnt umber]]}}
+#BD33A4 [[Byzantium (color)#Byzantine|Byzantine]]}}
+#702963 [[Byzantium (color)|Byzantium]]}}
+#536872 [[Cadet grey#Cadet|Cadet]]}}
+#5F9EA0 [[Cadet grey#Cadet blue|Cadet blue]]}}
+#91A3B0 [[Cadet grey]]}}
+#006B3C [[Cadmium pigments|Cadmium green]]}}
+#ED872D [[Cadmium pigments|Cadmium orange]]}}
+#E30022 [[Cadmium pigments|Cadmium red]]}}
+#FFF600 [[Cadmium pigments|Cadmium yellow]]}}
+#A67B5B [[Coffee (color)#Caf? au Lait|Caf? au lait]]}}
+#4B3621 [[Coffee (color)#Caf? Noir|Caf? noir]]}}
+#1E4D2B [[Variations of green#Cal Poly Pomona green|Cal Poly Pomona green]]}}
+#A3C1AD [[Cambridge Blue (colour)|Cambridge Blue]]}}
+#C19A6B [[Camel (color)#Camel|Camel]]}}
+#78866B [[Chartreuse (color)#Camouflage green|Camouflage green]]}}
+#FFEF00 [[Yellow#Electric yellow vs. process yellow|Canary yellow]]}}
+#FF0800 [[Candy apple red (color)|Candy apple red]]}}
+#E4717A [[Candy apple red (color)#Candy pink|Candy pink]]}}
+#00BFFF [[Deep sky blue|Capri]]}}
+#592720 [[Caput mortuum]]}}
+#C41E3A [[Cardinal (color)|Cardinal]]}}
+#00CC99 [[Spring green (color)#Caribbean green|Caribbean green]]}}
+#FF0040 [[Carmine (color)|Carmine]]}}
+#EB4C42 [[Carmine (color)#Carmine Pink|Carmine pink]]}}
+#FF0038 [[Carmine (color)#Carmine Red|Carmine red]]}}
+#FFA6C9 [[Carnation pink]]}}
+#B31B1B [[Carnelian (color)|Carnelian]]}}
+#99BADD [[Carolina blue]]}}
+#ED9121 [[Orange (color)|Carrot orange]]}}
+#ACE1AF [[Variations of green#Celadon|Celadon]]}}
+#B2FFFF [[Celeste (colour)]]}}
+#4997D0 [[Azure (color)#Celestial blue|Celestial blue]]}}
+#DE3163 [[Cerise (color)|Cerise]]}}
+#EC3B83 [[Cerise (color)#Cerise pink|Cerise pink]]}}
+#007BA7 [[Cerulean]]}}
+#2A52BE [[Cerulean blue]]}}
+#007AA5 [[CG Blue]]}}
+#E03C31 [[CG Red]]}}
+#A0785A [[Chamoisee]]}}
+#FAD6A5 [[Champagne (color)|Champagne]]}}
+#36454F [[Charcoal (color)|Charcoal]]}}
+#DFFF00 [[Chartreuse (color)|Chartreuse (traditional)]]}}
+#7FFF00 [[Chartreuse (color)|Chartreuse (web)]]}}
+#FFB7C5 [[Variations of pink#Cherry blossom pink|Cherry blossom pink]]}}
+#CD5C5C [[Chestnut (color)|Chestnut]]}}
+#7B3F00 [[Chocolate (color)|Chocolate (traditional)]]}}
+#D2691E [[Chocolate (color)#Variations of chocolate|Chocolate (web)]]}}
+#FFA700 [[Chrome yellow]]}}
+#98817B [[Cinereous]]}}
+#E34234 [[Cinnabar]]}}
+#D2691E [[Cinnamon]]}}
+#E4D00A [[Citrine (colour)|Citrine]]}}
+#FBCCE7 [[Rose (color)#Classic Rose|Classic rose]]}}
+#0047AB [[Cobalt blue|Cobalt]]}}
+#D2691E [[Chocolate (color)#Variations of chocolate|Cocoa brown]]}}
+#6F4E37 [[Coffee (color)|Coffee]]}}
+#9BDDFF [[Columbia blue]]}}
+#002E63 [[Rich black|Cool black]]}}
+#8C92AC [[Cool grey]]}}
+#B87333 [[Copper (color)|Copper]]}}
+#996666 [[Rose (color)#Copper Rose|Copper rose]]
+#FF3800 [[Coquelicot]]}}
+#FF7F50 [[Coral (color)|Coral]]}}
+#F88379 [[Coral (color)#Coral pink|Coral pink]]}}
+#FF4040 [[Coral (color)#Coral red|Coral red]]}}
+#893F45 [[Cordovan (color)|Cordovan]]}}
+#FBEC5D [[Corn (color)|Corn]]}}
+#B31B1B [[Variations of red#Cornell Red|Cornell Red]]}}
+#6495ED [[Cornflower blue]]}}
+#FFF8DC [[Cornsilk (color)|Cornsilk]]}}
+#FFF8E7 [[Cosmic latte]]}}
+#FFBCD9 [[Cotton candy]]}}
+#FFFDD0 [[Cream (colour)|Cream]]}}
+#DC143C [[Crimson]]}}
+#BE0032 [[Crimson#Crimson glory|Crimson glory]]}}
+#00FFFF [[Cyan]]|html_ Cyan
+#00B7EB [[Cyan|Cyan (process)]]}}
+#FFFF31 [[Daffodil]]}}
+#F0E130 [[Dandelion]]}}
+#00008B [[Blue#Dark blue|Dark blue]]}}
+#654321 [[Brown#Dark brown|Dark brown]]}}
+#5D3954 [[Byzantium (color)#Dark byzantium|Dark byzantium]]}}
+#A40000 [[Candy apple red (color)#Dark candy apple red|Dark candy apple red]]}}
+#08457E [[Cerulean#Dark cerulean|Dark cerulean]]}}
+#986960 [[Chestnut (color)#Dark chestnut|Dark chestnut]]}}
+#CD5B45 [[Coral (color)#Dark coral|Dark coral]]}}
+#008B8B [[Cyan#Dark cyan|Dark cyan]]}}
+#536878 [[Electric blue (color)#Dark electric blue|Dark electric blue]]}}
+#B8860B [[Goldenrod (color)#Dark goldenrod|Dark goldenrod]]}}
+#A9A9A9 [[Grey#Web colors|Dark gray]]}}
+#013220 [[Dark green]]}}
+#1A2421 [[Jungle green#Dark jungle green|Dark jungle green]]}}
+#BDB76B [[Khaki (color)#Dark khaki|Dark khaki]]}}
+#483C32 [[Lava (color)#Dark lava|Dark lava]]}}
+#734F96 [[Lavender (color)#Dark lavender|Dark lavender]]}}
+#8B008B [[Variations of magenta#Dark magenta|Dark magenta]]}}
+#003366 [[Midnight blue#Dark midnight blue|Dark midnight blue]]}}
+#556B2F [[Chartreuse (color)#Dark olive green|Dark olive green]]}}
+#FF8C00 [[Variations of orange#Dark orange (web color)|Dark orange]]}}
+#9932CC [[X11 color names#Color names|Dark orchid]]}}
+#779ECB [[Blue#Dark pastel blue|Dark pastel blue]]}}
+#03C03C [[Dark pastel green]]}}
+#966FD6 [[Purple#Dark pastel purple|Dark pastel purple]]}}
+#C23B22 [[Variations of red#Dark pastel red|Dark pastel red]]}}
+#E75480 [[Pink#Dark pink|Dark pink]]}}
+#003399 [[Powder blue#Dark powder blue (smalt)|Dark powder blue]]}}
+#872657 [[Raspberry (color)#Dark raspberry|Dark raspberry]]}}
+#8B0000 [[Maroon (color)#Dark red|Dark red]]}}
+#E9967A [[Salmon (color)#Dark salmon|Dark salmon]]}}
+#560319 [[Scarlet (color)#Dark scarlet|Dark scarlet]]}}
+#8FBC8F [[X11 color names#Color names|Dark sea green]]}}
+#3C1414 [[Sienna|Dark sienna]]}}
+#483D8B [[X11 color names#Color names|Dark slate blue]]}}
+#2F4F4F [[Slate gray#Dark slate gray|Dark slate gray]]}}
+#177245 [[Spring green (color)#Dark spring green|Dark spring green]]}}
+#918151 [[Tan (color)#Dark tan|Dark tan]]}}
+#FFA812 [[Variations of orange#Dark tangerine|Dark tangerine]]}}
+#483C32 [[Taupe#Dark taupe|Dark taupe]]}}
+#CC4E5C [[Terracotta#Color|Dark terra cotta]]}}
+#00CED1 [[Turquoise (color)#Dark Turquoise|Dark turquoise]]}}
+#9400D3 [[Violet (color)#Pigment violet (web color dark violet)|Dark violet]]}}
+#00693E [[Variations of green#Dartmouth green|Dartmouth green]]}}
+#555555 [[Davy's grey]]}}
+#D70A53 [[Debian|Debian red]]}}
+#A9203E [[Carmine (color)#Deep Carmine|Deep carmine]]}}
+#EF3038 [[Carmine (color)#Deep Carmine Pink|Deep carmine pink]]}}
+#E9692C [[Variations of orange#Deep carrot orange|Deep carrot orange]]}}
+#DA3287 [[Cerise (color)#Deep cerise|Deep cerise]]}}
+#FAD6A5 [[Champagne (color)#Deep champagne|Deep champagne]]}}
+#B94E48 [[Chestnut (color)#Deep chestnut|Deep chestnut]]}}
+#704241 [[Coffee (color)#Deep coffee|Deep coffee]]}}
+#C154C1 [[Fuchsia (color)#Deep fuchsia|Deep fuchsia]]}}
+#004B49 [[Jungle green#Deep jungle green|Deep jungle green]]}}
+#9955BB [[Lilac (color)#Deep lilac|Deep lilac]]}}
+#CC00CC [[Magenta#Deep magenta|Deep magenta]]}}
+#FFCBA4 [[Peach (color)#Deep peach|Deep peach]]}}
+#FF1493 [[Variations of pink#Deep pink|Deep pink]]}}
+#FF9933 [[Saffron (color)#Deep saffron|Deep saffron]]}}
+#00BFFF [[Deep sky blue]]}}
+#1560BD [[List of Crayola crayon colors#Standard Colors|Denim]]}}
+#C19A6B [[Desert sand (color)#Desert|Desert]]}}
+#EDC9AF [[Desert sand (color)|Desert sand]]}}
+#696969 [[Grey#Web colors|Dim gray]]}}
+#1E90FF [[Dodger blue]]}}
+#D71868 [[Rose (color)#Dogwood Rose|Dogwood rose]]}}
+#85BB65 [[List of Crayola colored pencil colors#Standard colors|Dollar bill]]}}
+#967117 [[Desert sand (color)#Sand dune (Drab)|Drab]]}}
+#00009C [[Duke blue]]}}
+#E1A95F [[Desert sand (color)#Earth yellow|Earth yellow]]}}
+#C2B280 [[Ecru]]}}
+#614051 [[Eggplant (color)|Eggplant]]}}
+#F0EAD6 [[Eggshell (color)|Eggshell]]}}
+#1034A6 [[Egyptian blue]]}}
+#7DF9FF [[Electric blue (color)|Electric blue]]}}
+#FF003F [[Crimson#Electric crimson|Electric crimson]]}}
+#00FFFF [[Cyan#Electric cyan vs. process cyan|Electric cyan]]}}
+#00FF00 [[Electric green#Green (X11 color)|Electric green]]
+#6F00FF [[Indigo#Electric indigo|Electric indigo]]}}
+#F4BBFF [[Lavender (color)#Brilliant lavender (electric lavender)|Electric lavender]]}}
+#CCFF00 [[Lime (color)#Electric lime|Electric lime]]
+#BF00FF [[Purple#Electric purple: 2000s|Electric purple]]}}
+#3F00FF [[Ultramarine#Electric ultramarine|Electric ultramarine]]}}
+#8F00FF [[Violet (color)#Electric violet|Electric violet]]}}
+#FFFF00 [[Yellow|Electric yellow]]}}
+#50C878 [[Variations of green#Emerald|Emerald]]}}
+#96C8A2 [[Eton blue#Eton blue|Eton blue]]}}
+#C19A6B [[Fallow (color)|Fallow]]}}
+#801818 [[Falu red]]}}
+#B53389 [[Fuchsia (color)#Fandango|Fandango]]}}
+#F400A1 [[Fuchsia (color)#Fashion fuchsia|Fashion fuchsia]]}}
+#E5AA70 [[Fawn (colour)|Fawn]]}}
+#4D5D53 [[Variations of green#Feldgrau|Feldgrau]]}}
+#4F7942 [[Variations of green#Fern green|Fern green]]}}
+#FF2800 [[Ferrari|Ferrari Red]]}}
+#6C541E [[Desert sand (color)#Field drab|Field drab]]}}
+#B22222 [[X11 color names#Color names|Firebrick]]}}
+#CE2029 [[Fire engine red]]}}
+#E25822 [[Flame (color)|Flame]]}}
+#FC8EAC [[Flamingo|Flamingo pink]]}}
+#F7E98E Flavescent}}
+#EEDC82 [[Flax (color)|Flax]]}}
+#FFFAF0 [[X11 color names#Color names|Floral white]]}}
+#FFBF00 [[List of Crayola colored pencil colors#Twistables|Fluorescent orange]]}}
+#FF1493 [[List of Crayola colored pencil colors#Twistables|Fluorescent pink]]}}
+#CCFF00 [[List of Crayola colored pencil colors#Twistables|Fluorescent yellow]]}}
+#FF004F [[Crimson#Folly|Folly]]}}
+#014421 [[Variations of green#UP Forest green|Forest green (traditional)]]}}
+#228B22 [[Variations of green#Forest green|Forest green (web)]]}}
+#A67B5B [[Beige#French beige|French beige]]}}
+#0072BB [[Azure (color)#French blue|French blue]]}}
+#86608E [[Lilac (color)#French lilac|French lilac]]}}
+#F64A8A [[Rose (color)#French Rose|French rose]]}}
+#FF00FF [[Fuchsia (color)|Fuchsia]]|html_ Fuchsia
+#FF77FF [[Fuchsia (color)#Fuchsia pink (light magenta)|Fuchsia pink]]}}
+#E48400 [[Fulvous]]}}
+#CC6666 [[List of Crayola crayon colors#Standard Colors|Fuzzy Wuzzy]]}}
+#DCDCDC [[X11 color names#Color names identical between X11 and HTML/CSS|Gainsboro]]}}
+#E49B0F [[Gamboge]]}}
+#F8F8FF [[Ghost white]]}}
+#B06500 [[Ginger]]}}
+#6082B6 [[Glaucous]]}}
+#E6E8FA [[Glitter]]}}
+#D4AF37 [[Gold (color)#Gold (metallic gold)|Gold (metallic)]]}}
+#FFD700 [[Gold (color)|Gold (web) (Golden)]]|html_ Gold}}
+#996515 [[Gold (color)#Golden brown|Golden brown]]}}
+#FCC200 [[Gold (color)#Golden poppy|Golden poppy]]}}
+#FFDF00 [[Gold (color)#Golden yellow|Golden yellow]]}}
+#DAA520 [[Goldenrod (color)|Goldenrod]]}}
+#A8E4A0 [[List of Crayola crayon colors|Granny Smith Apple]]}}
+#808080 [[Grey|Gray]]|html_ Grey}}
+#7F7F7F [[X11 color names#Color names|Gray (HTML/CSS gray)]]}}
+#BEBEBE [[X11 color names#Color names|Gray (X11 gray)]]}}
+#465945 [[Variations of green#Gray-asparagus|Gray-asparagus]]}}
+#00FF00 [[Variations of green#Green (RGB) (X11 green) (HTML/CSS lime) (color wheel green) (electric green)|Green (color wheel) (X11 green)]]|html_ Lime}}
+#008000 [[Variations of Green#Green (HTML/CSS)|Green (HTML/CSS green)]]|html_ Green}}
+#00A877 [[Variations of green#Green (Munsell)|Green (Munsell)]]}}
+#009F6B [[Variations of green#Green (NCS)|Green (NCS)]]}}
+#00A550 [[Variations of green#Green (CMYK) (pigment green)|Green (pigment)]]}}
+#66B032 [[RYB color model|Green (RYB)]]}}
+#ADFF2F [[Variations of green#Green-yellow|Green-yellow]]}}
+#A99A86 [[Grullo]]}}
+#00FF7F [[List of Crayola colored pencil colors|Guppie green]]}}
+#663854 [[Lavender (color)#Halay? ?be|Halay? ?be]]}}
+#446CCF [[Han blue]]}}
+#5218FA [[Han purple]]}}
+#E9D66B [[Hansa yellow]]}}
+#3FFF00 [[Variations of green#Harlequin|Harlequin]]}}
+#C90016 [[Crimson#Harvard crimson|Harvard crimson]]}}
+#DA9100 [[List of Crayola colored pencil colors#Standard colors|Harvest Gold]]}}
+#808000 [[Gold|Heart Gold]]}}
+#DF73FF [[Heliotrope (color)|Heliotrope]]}}
+#F400A1 [[Cerise (color)#Hollywood cerise|Hollywood cerise]]}}
+#F0FFF0 [[Spring green (color)#Honeydew|Honeydew]]}}
+#49796B [[Hooker's green]]}}
+#FF1DCE [[Variations of magenta#Hot magenta|Hot magenta]]}}
+#FF69B4 [[Variations of pink#Hot pink|Hot pink]]}}
+#355E3B [[Variations of green#Hunter green|Hunter green]]}}
+#FCF75E [[Icterine]]}}
+#B2EC5D [[List of Crayola crayon colors#Standard Colors|Inchworm]]}}
+#138808 [[Variations of green#India green|India green]]}}
+#CD5C5C [[X11 color names#Color names identical between X11 and HTML/CSS|Indian red]]}}
+#E3A857 [[Indian yellow]]}}
+#00416A [[Indigo#Indigo dye|Indigo (dye)]]}}
+#4B0082 [[Indigo#Pigment indigo (web color indigo)|Indigo (web)]]}}
+#002FA7 [[International Klein Blue]]}}
+#FF4F00 [[International orange]]}}
+#5A4FCF [[Iris (color)|Iris]]}}
+#F4F0EC [[Isabelline (colour)|Isabelline]]}}
+#009000 [[Variations of green#Islamic green|Islamic green]]}}
+#FFFFF0 [[Ivory (color)|Ivory]]
+#00A86B [[Variations of green#Jade|Jade]]}}
+#F8DE7E [[Jasmine (color)|Jasmine]]}}
+#D73B3E [[Jasper]]}}
+#A50B5E [[Red-violet#Jazzberry jam|Jazzberry jam]]}}
+#FADA5E [[Jonquil]]}}
+#BDDA57 [[Spring bud#June bud|June bud]]}}
+#29AB87 [[Jungle green]]}}
+#4CBB17 [[Variations of green#Kelly green|Kelly green]]}}
+#C3B091 [[Khaki (color)#Khaki|Khaki (HTML/CSS) (Khaki)]]}}
+#F0E68C [[Khaki (color)#Light khaki|Khaki (X11) (Light khaki)]]}}
+#E8000D [[Crimson#KU Crimson|KU Crimson]]}}
+#087830 [[De La Salle University|La Salle Green]]}}
+#D6CADD [[Lavender (color)#Languid lavender|Languid lavender]]}}
+#26619C [[Azure (color)#Lapis lazuli|Lapis lazuli]]}}
+#FEFE22 [[Lemon (color)|Laser Lemon]]}}
+#A9BA9D [[Variations of green#Laurel green|Laurel green]]}}
+#CF1020 [[Lava (color)|Lava]]}}
+#B57EDC [[Lavender (color)#Lavender (floral)|Lavender (floral)]]}}
+#E6E6FA [[Lavender (color)|Lavender (web)]]}}
+#CCCCFF [[Lavender (color)#Lavender blue (periwinkle)|Lavender blue]]
+#FFF0F5 [[Lavender (color)#Lavender blush|Lavender blush]]}}
+#C4C3D0 [[Lavender (color)#Lavender gray|Lavender gray]]}}
+#9457EB [[Lavender (color)#Lavender indigo|Lavender indigo]]}}
+#EE82EE [[Lavender (color)#Lavender magenta (web color "light violet")|Lavender magenta]]}}
+#E6E6FA [[Lavender (color)#Lavender mist|Lavender mist]]}}
+#FBAED2 [[Lavender (color)#Lavender pink|Lavender pink]]}}
+#967BB6 [[Lavender (color)#Lavender purple (purple mountain majesty)|Lavender purple]]}}
+#FBA0E3 [[Lavender (color)#Lavender rose|Lavender rose]]}}
+#7CFC00 [[Chartreuse (color)#Lawn green|Lawn green]]}}
+#FFF700 [[Lemon (color)|Lemon]]}}
+#FFFACD [[Lemon chiffon]]}}
+#FDD5B1 [[Apricot (color)#Light apricot|Light apricot]]}}
+#ADD8E6 [[Blue#Light blue|Light blue]]}}
+#B5651D [[Light brown]]}}
+#E66771 [[Carmine (color)#Light Carmine Pink|Light carmine pink]]}}
+#F08080 [[Coral (color)#Light coral|Light coral]]}}
+#93CCEA [[Cornflower blue#Light cornflower blue|Light cornflower blue]]}}
+#F56991 [[Crimson#Light Crimson|Light Crimson]]}}
+#E0FFFF [[Cyan#Light cyan|Light cyan]]}}
+#F984EF [[Fuchsia (color)#Light fuchsia pink (pale magenta)|Light fuchsia pink]]}}
+#FAFAD2 [[Goldenrod (color)#Light goldenrod yellow|Light goldenrod yellow]]}}
+#D3D3D3 [[Grey#Web colors|Light gray]]}}
+#90EE90 [[X11 color names#Color names|Light green]]}}
+#F0E68C [[Khaki (color)#Light khaki|Light khaki]]}}
+#B19CD9 [[Purple#Light pastel purple|Light pastel purple]]}}
+#FFB6C1 [[Pink#Light pink|Light pink]]}}
+#FFA07A [[Salmon (color)#Light salmon|Light salmon]]}}
+#FF9999 [[Salmon pink#Light salmon pink|Light salmon pink]]}}
+#20B2AA [[Cyan#Light sea green|Light sea green]]}}
+#87CEFA [[Azure (color)#Light sky blue|Light sky blue]]}}
+#778899 [[Slate gray#Light slate gray|Light slate gray]]}}
+#B38B6D [[Taupe#Light taupe|Light taupe]]}}
+#E68FAC [[Rose (color)#Light Thulian Pink|Light Thulian pink]]}}
+#FFFFED [[Variations of yellow#Light yellow|Light yellow]]}}
+#C8A2C8 [[Lilac (color)|Lilac]]}}
+#BFFF00 [[Lime (color)|Lime (color wheel)]]}}
+#00FF00 [[Lime (color)#Web color "lime" (X11 Green)|Lime (web) (X11 green)]]|html_ Lime
+#32CD32 [[Lime (color)#Lime green|Lime green]]}}
+#195905 [[Lincoln green]]}}
+#FAF0E6 [[Linen (color)|Linen]]}}
+#C19A6B [[Lion (color)|Lion]]}}
+#534B4F [[Liver (color)|Liver]]}}
+#E62020 [[Variations of red#Lust|Lust]]}}
+#FF00FF [[Magenta]]|html_ Fuchsia
+#CA1F7B [[Magenta#Historical development of magenta|Magenta (dye)]]}}
+#FF0090 [[Magenta#Historical development of magenta|Magenta (process)]]}}
+#AAF0D1 [[Spring green (color)#Magic mint|Magic mint]]}}
+#F8F4FF [[Magnolia (color)|Magnolia]]}}
+#C04000 [[Mahogany (color)|Mahogany]]}}
+#FBEC5D [[Maize (color)|Maize]]}}
+#6050DC [[Majorelle Blue]]}}
+#0BDA51 [[Malachite]]}}
+#979AAA [[List of Crayola crayon colors#Standard Colors|Manatee]]}}
+#FF8243 [[List of Crayola crayon colors#Standard Colors|Mango Tango]]}}
+#74C365 [[Variations of green#Mantis|Mantis]]}}
+#800000 [[Maroon (color)|Maroon (HTML/CSS)]]|html_ Maroon}}
+#B03060 [[Maroon (color)|Maroon (X11)]]}}
+#E0B0FF [[Mauve]]}}
+#915F6D [[Taupe#Mauve taupe|Mauve taupe]]}}
+#EF98AA [[List of Crayola crayon colors#Standard Colors|Mauvelous]]}}
+#73C2FB [[Maya Blue|Maya blue]]}}
+#E5B73B [[List of Crayola colored pencil colors#Standard colors|Meat brown]]}}
+#66DDAA [[Aquamarine (color)#Medium aquamarine|Medium aquamarine]]}}
+#0000CD [[Dark blue (color)#Medium blue|Medium blue]]}}
+#E2062C [[Candy apple red (color)#Medium candy apple red|Medium candy apple red]]}}
+#AF4035 [[Carmine (color)#Medium Carmine|Medium carmine]]}}
+#F3E5AB [[Champagne (color)#Medium champagne|Medium champagne]]}}
+#035096 [[Electric blue (color)#Medium electric blue|Medium electric blue]]}}
+#1C352D [[Jungle green#Medium jungle green|Medium jungle green]]}}
+#DDA0DD [[Lavender (color)#Medium lavender magenta (web color plum)|Medium lavender magenta]]
+#BA55D3 [[X11 color names#Color names|Medium orchid]]}}
+#0067A5 [[Persian blue#Medium Persian blue|Medium Persian blue]]}}
+#9370DB [[Purple|Medium purple]]}}
+#BB3385 [[Red-violet#Medium red-violet|Medium red-violet]]}}
+#3CB371 [[Spring green (color)#Medium sea green|Medium sea green]]}}
+#7B68EE [[X11 color names#Color names|Medium slate blue]]}}
+#C9DC87 [[Spring bud#Medium spring bud|Medium spring bud]]}}
+#00FA9A [[Spring green (color)#Medium spring green|Medium spring green]]}}
+#674C47 [[Taupe#Medium taupe|Medium taupe]]}}
+#0054B4 [[Teal (color)#Medium teal blue|Medium teal blue]]}}
+#48D1CC [[Turquoise (color)#Medium Turquoise|Medium turquoise]]}}
+#C71585 [[Red-violet|Medium violet-red]]}}
+#FDBCB4 [[List of Crayola crayon colors#Standard Colors|Melon]]}}
+#191970 [[Midnight blue]]
+#004953 [[Variations of green#Midnight green|Midnight green (eagle green)]]|
+#FFC40C [[Mikado yellow]]}}
+#3EB489 [[Spring green (color)#Mint|Mint]]}}
+#F5FFFA [[Spring green (color)#Mint cream|Mint cream]]}}
+#98FF98 [[Spring green (color)#Mint green|Mint green]]}}
+#FFE4E1 [[Rose (color)#Misty Rose|Misty rose]]}}
+#FAEBD7 [[Moccasin]]}}
+#967117 [[Beige#Mode beige|Mode beige]]}}
+#73A9C2 [[Moonstone (gemstone)|Moonstone blue]]}}
+#AE0C00 [[Mordant red 19]]}}
+#ADDFAD [[Variations of green#Moss green|Moss green]]}}
+#30BA8F [[List of Crayola crayon colors#Standard Colors|Mountain Meadow]]}}
+#997A8D [[Mountbatten pink]]}}
+#C54B8C [[Purple#Mulberry|Mulberry]]}}
+#F2F3F4 [[Munsell color system|Munsell]]}}
+#FFDB58 [[Mustard (color)|Mustard]]}}
+#21421E [[Variations of green#Myrtle|Myrtle]]}}
+#18453B [[Variations of green#MSU Green|MSU Green]]
+#F6ADC6 [[Carnation pink#Nadeshiko pink|Nadeshiko pink]]}}
+#2A8000 [[British racing green|Napier green]]}}
+#FADA5E [[Naples yellow]]}}
+#FFDEAD [[Navajo white]]}}
+#000080 [[Navy blue]]}}
+#FFA343 [[List of Crayola crayon colors#Standard Colors|Neon Carrot]]}}
+#FE59C2 [[Fuchsia (color)#Neon fuchsia|Neon fuchsia]]}}
+#39FF14 [[Variations of green#Neon green|Neon green]]}}
+#A4DDED [[Non-photo blue]]}}
+#059033 [http://www.unt.edu/identityguide/web-electronic.htm North Texas Green]}}
+#0077BE [[Azure (color)#Ocean boat blue|Ocean Boat Blue]]}}
+#CC7722 [[Ochre]]}}
+#008000 [[Variations of green#Office green|Office green]]|html_ Green}}
+#CFB53B [[Old gold]]}}
+#FDF5E6 [[Old lace (color)|Old lace]]}}
+#796878 [[Lavender (color)#Old lavender|Old lavender]]}}
+#673147 [[Mauve#Old mauve|Old mauve]]}}
+#C08081 [[Rose (color)#Old Rose|Old rose]]}}
+#808000 [[Chartreuse (color)#Olive|Olive]]}}
+#6B8E23 [[Chartreuse (color)#Olive drab|Olive Drab (web) (Olive Drab #3)]]}}
+#3C341F [[Chartreuse (color)#Olive drab|Olive Drab #7]]}}
+#9AB973 [[Olivine]]}}
+#0F0F0F [[Onyx]]}}
+#B784A7 [[Mauve#Opera mauve|Opera mauve]]}}
+#FF7F00 [[Variations of orange#Orange (color wheel)|Orange (Color Wheel)]]}}
+#FB9902 [[RYB color model|Orange (RYB)]]}}
+#FFA500 [[Variations of orange#Orange (web color)|Orange (web color)]]}}
+#FF9F00 [[Variations of orange#Orange peel|Orange peel]]}}
+#FF4500 [[Vermilion#Orange-red|Orange-red]]}}
+#DA70D6 [[Orchid (colour)|Orchid]]}}
+#654321 [[Brown#Otter brown|Otter brown]]}}
+#414A4C [[List of Crayola crayon colors#Standard Colors|Outer Space]]}}
+#FF6E4A [[List of Crayola crayon colors#Standard Colors|Outrageous Orange]]}}
+#002147 [[Oxford University|Oxford Blue]]}}
+#990000 [[Variations of red#OU Crimson|OU Crimson Red]]}}
+#006600 [[Variations of green#Pakistan green|Pakistan green]]}}
+#273BE2 [[Palatinate (colour)#Palatinate Blue|Palatinate blue]]}}
+#682860 [[Palatinate (colour)#Palatinate Purple|Palatinate purple]]}}
+#BCD4E6 [[Aqua_(color)#Pale_aqua|Pale aqua]]}}
+#AFEEEE [[Pale blue]]}}
+#987654 [[Brown#Pale brown|Pale brown]]}}
+#AF4035 [[Pale carmine]]}}
+#9BC4E2 [[Cerulean#Pale cerulean|Pale cerulean]]}}
+#DDADAF [[Pale chestnut]]}}
+#DA8A67 [[Copper (color)#Pale copper|Pale copper]]}}
+#ABCDEF [[Pale cornflower blue]]}}
+#E6BE8A [[Gold (color)#Pale gold|Pale gold]]}}
+#EEE8AA [[Goldenrod (color)#Pale goldenrod|Pale goldenrod]]}}
+#98FB98 [[Variations of green#Pale green|Pale green]]}}
+#DCD0FF [[Lavender (color)#Pale Lavender|Pale lavender]]}}
+#F984E5 [[Variations of magenta#Pale magenta (light fuchsia pink)|Pale magenta]]}}
+#FADADD [[Variations of pink#Pale pink|Pale pink]]}}
+#DDA0DD [[Plum (color)#Pale plum (web color "plum")|Pale plum]]
+#DB7093 [[Red-violet#Pale red-violet (web color pale violet red)|Pale red-violet]]}}
+#96DED1 [[Robin egg blue#Pale robin egg blue|Pale robin egg blue]]}}
+#C9C0BB [[Silver (color)#Pale silver|Pale silver]]}}
+#ECEBBD [[Spring bud#Pale spring bud|Pale spring bud]]}}
+#BC987E [[Taupe#Pale taupe (mouse)|Pale taupe]]}}
+#DB7093 [[Red-violet|Pale violet-red]]}}
+#78184A [[Purple#Pansy purple|Pansy purple]]}}
+#FFEFD5 [[Variations of orange#Papaya whip|Papaya whip]]}}
+#50C878 [[Paris Green]]}}
+#AEC6CF [[Blue#Pastel blue|Pastel blue]]}}
+#836953 [[Brown#Pastel brown|Pastel brown]]}}
+#CFCFC4 [[Grey#Pastel gray|Pastel gray]]}}
+#77DD77 [[Pastel green]]}}
+#F49AC2 [[Magenta#Pastel magenta|Pastel magenta]]}}
+#FFB347 [[Orange (colour)#Pastel orange|Pastel orange]]}}
+#FFD1DC [[Variations of pink#Pastel pink|Pastel pink]]}}
+#B39EB5 [[Purple#Pastel purple|Pastel purple]]}}
+#FF6961 [[Variations of red#Pastel red|Pastel red]]}}
+#CB99C9 [[Violet (color)#Pastel violet|Pastel violet]]}}
+#FDFD96 [[Variations of yellow#Pastel yellow|Pastel yellow]]}}
+#800080 [[Purple#Purple (HTML/CSS color) (patriarch)|Patriarch]]}}
+#536878 [[Payne's grey]]}}
+#FFE5B4 [[Peach (color)|Peach]]}}
+#FFCC99 [[Peach (color)#Peach-orange|Peach-orange]]
+#FFDAB9 [[Peach (color)#Peach puff|Peach puff]]}}
+#FADFAD [[Peach (color)#Peach-yellow|Peach-yellow]]}}
+#D1E231 [[Chartreuse (color)#Pear|Pear]]}}
+#EAE0C8 [[Pearl (color)|Pearl]]}}
+#88D8C0 [[Aqua (color)|Pearl Aqua]]}}
+#E6E200 [[Peridot]]}}
+#CCCCFF [[Periwinkle (color)|Periwinkle]]
+#1C39BB [[Persian blue]]}}
+#00A693 [[Variations of green#Persian green|Persian green]]}}
+#32127A [[Persian blue#Persian indigo|Persian indigo]]}}
+#D99058 [[Persian orange]]}}
+#F77FBE [[Rose (color)#Persian Pink|Persian pink]]}}
+#701C1C [[Plum (color)#Persian plum (prune)|Persian plum]]}}
+#CC3333 [[Persian red]]
+#FE28A2 [[Rose (color)#Persian Rose|Persian rose]]}}
+#DF00FF [[Purple#Psychedelic purple (phlox)|Phlox]]}}
+#000F89 [[Phthalo Blue|Phthalo blue]]}}
+#123524 [[Phthalo Green|Phthalo green]]}}
+#FDDDE6 [[Pig|Piggy pink]]}}
+#01796F [[Variations of green#Pine green|Pine green]]}}
+#FFC0CB [[Pink]]}}
+#FF9966 Pink-orange
+#E7ACCF [[Pearl|Pink pearl]]}}
+#F78FA7 [[List of Crayola crayon colors|Pink Sherbet]]}}
+#93C572 [[Chartreuse (color)#Pistachio|Pistachio]]}}
+#E5E4E2 [[Platinum (color)|Platinum]]|web_safe={{no}}}}
+#8E4585 [[Plum (color)|Plum (traditional)]]}}
+#DDA0DD [[Plum (color)#Pale plum (web color "plum")|Plum (web)]]
+#FF5A36 [[Portland Orange]]}}
+#B0E0E6 [[Powder blue|Powder blue (web)]]}}
+#FF8F00 [[Variations of orange#Princeton orange|Princeton orange]]}}
+#701C1C [[Plum (color)#Persian plum (prune)|Prune]]}}
+#003153 [[Prussian blue]]}}
+#DF00FF [[Purple#Psychedelic purple (phlox)|Psychedelic purple]]}}
+#CC8899 [[Puce]]}}
+#FF7518 [[Pumpkin (color)|Pumpkin]]}}
+#800080 [[Purple#Purple (HTML/CSS color) (patriarch)|Purple (HTML/CSS)]]|html_ Purple}}
+#9F00C5 [[Purple#Purple (Munsell)|Purple (Munsell)]]}}
+#A020F0 [[Purple#Purple (X11 color) (veronica)|Purple (X11)]]}}
+#69359C [[Purple Heart]]}}
+#9678B6 [[Lavender (color)#Lavender purple (purple mountain majesty)|Purple mountain majesty]]}}
+#FE4EDA [[Variations of magenta#Purple pizzazz|Purple pizzazz]]}}
+#50404D [[Taupe#Purple taupe|Purple taupe]]}}
+#51484F [[Quartz]]}}
+#FF355E [[Amaranth (color)#Radical red (bright amaranth pink)|Radical Red]]}}
+#E30B5D [[Raspberry (color)|Raspberry]]}}
+#915F6D [[Raspberry (color)#Raspberry glace|Raspberry glace]]}}
+#E25098 [[Raspberry (color)#Raspberry pink|Raspberry pink]]}}
+#B3446C [[Raspberry (color)#Raspberry rose|Raspberry rose]]}}
+#826644 [[Umber#Raw umber|Raw umber]]}}
+#FF33CC [[Rose (color)#Razzle Dazzle Rose|Razzle dazzle rose]]}}
+#E3256B [[Rose (color)#Razzmatazz|Razzmatazz]]}}
+#FF0000 [[Red]]|html_ Red
+#F2003C [[Variations of red#Red (Munsell)|Red (Munsell)]]}}
+#C40233 [[Variations of red#Red (NCS) (psychological primary red)|Red (NCS)]]}}
+#ED1C24 [[Variations of red#Pigment red|Red (pigment)]]}}
+#FE2712 [[RYB color model|Red (RYB)]]
+#A52A2A [[Brown#Red-brown (web color "brown")|Red-brown]]}}
+#C71585 [[Red-violet]]}}
+#AB4E52 [[Redwood (color)|Redwood]]}}
+#004040 [[Rich black]]}}
+#F1A7FE [[Lavender (color)#Rich brilliant lavender|Rich brilliant lavender]]}}
+#D70040 [[Carmine (color)#Rich Carmine|Rich carmine]]}}
+#0892D0 [[Electric blue (color)#Rich electric blue|Rich electric blue]]}}
+#A76BCF [[Lavender (color)#Rich Lavender (deep floral lavender)|Rich lavender]]}}
+#B666D2 [[Lilac (color)#Rich lilac|Rich lilac]]}}
+#B03060 [[Maroon (color)#Rich maroon (maroon (X11))|Rich maroon]]}}
+#414833 [[Variations of green#Rifle green|Rifle green]]}}
+#00CCCC [[Robin egg blue]]
+#FF007F [[Rose (color)|Rose]]}}
+#F9429E [[Rose (color)#Rose Bonbon|Rose bonbon]]}}
+#674846 [[Rose (color)#Rose Ebony|Rose ebony]]}}
+#B76E79 [[Rose (color)#Rose Gold|Rose gold]]}}
+#E32636 [[Alizarin|Rose madder]]}}
+#FF66CC [[Rose (color)#Rose Pink|Rose pink]]}}
+#AA98A9 [[Rose (color)#Rose Quartz|Rose quartz]]}}
+#905D5D [[Taupe#Rose taupe|Rose taupe]]}}
+#AB4E52 [[Rose (color)#Rose Vale|Rose vale]]}}
+#65000B [[Rose (color)#Rosewood|Rosewood]]}}
+#D40000 [[Rosso corsa]]}}
+#BC8F8F [[Rose (color)#Rosy Brown|Rosy brown]]}}
+#0038A8 [[Azure (color)#Royal azure|Royal azure]]}}
+#002366 [[Royal blue|Royal blue (traditional)]]}}
+#4169E1 [[Royal blue|Royal blue (web)]]}}
+#CA2C92 [[Fuchsia (color)#Royal fuchsia|Royal fuchsia]]}}
+#7851A9 [[Purple#Royal purple: Medieval Europe|Royal purple]]}}
+#E0115F [[Ruby (color)|Ruby]]}}
+#FF0028 [[Ruddy]]}}
+#BB6528 [[Ruddy#Ruddy brown|Ruddy brown]]}}
+#E18E96 [[Ruddy#Ruddy pink|Ruddy pink]]}}
+#A81C07 [[Rufous]]}}
+#80461B [[Russet (color)|Russet]]}}
+#B7410E [[Rust (color)|Rust]]}}
+#00563F [[Variations of green#Sacramento State green|Sacramento State green]]}}
+#8B4513 [[X11 color names#Color name charts|Saddle brown]]}}
+#FF6700 [[Safety orange|Safety orange (blaze orange)]]
+#F4C430 [[Saffron (color)|Saffron]]}}
+#23297A [[St. Patrick's blue]]}}
+#FF8C69 [[Salmon (color)|Salmon]]}}
+#FF91A4 [[Salmon pink]]}}
+#C2B280 [[Desert sand (color)#Sand|Sand]]}}
+#967117 [[Desert sand (color)#Sand dune (Drab)|Sand dune]]}}
+#ECD540 [[List of Crayola colored pencil colors#Standard colors|Sandstorm]]}}
+#F4A460 [[Sandy brown]]}}
+#967117 [[Taupe#Sandy taupe|Sandy taupe]]}}
+#507D2A [[Variations of green#Sap green|Sap green]]}}
+#0F52BA [[Sapphire (color)|Sapphire]]}}
+#CBA135 [[Gold (color)#Satin sheen gold|Satin sheen gold]]}}
+#FF2400 [[Scarlet (color)|Scarlet]]}}
+#FF2400 [[Scarlet (color)#Scarlet (Crayola)|Scarlet (Crayola)]]}}
+#FFD800 [[School bus yellow]]}}
+#76FF7A [[List of Crayola crayon colors#Standard Colors|Screamin' Green]]}}
+#2E8B57 [[Variations of green#Sea green|Sea green]]}}
+#321414 [[Seal brown]]}}
+#FFF5EE [[Seashell (color)|Seashell]]}}
+#FFBA00 [[Selective yellow]]}}
+#704214 [[Sepia (color)|Sepia]]}}
+#8A795D [[List of Crayola crayon colors#Standard Colors|Shadow]]}}
+#009E60 [[Variations of green#Shamrock green|Shamrock green]]}}
+#FC0FC0 [[Variations of pink#Shocking pink|Shocking pink]]}}
+#882D17 [[Sienna]]}}
+#C0C0C0 [[Silver (color)|Silver]]|html_ Silver}}
+#CB410B [[Sinopia]]}}
+#007474 [[Spring green (color)#Skobeloff|Skobeloff]]}}
+#87CEEB [[Azure (color)#Sky blue|Sky blue]]}}
+#CF71AF [[Variations of magenta#Sky magenta|Sky magenta]]}}
+#6A5ACD [[X11 color names#Color names|Slate blue]]}}
+#708090 [[Slate gray]]}}
+#003399 [[Powder blue|Smalt (Dark powder blue)]]
+#933D41 [[Topaz|Smokey topaz]]}}
+#100C08 [[Smoky black]]}}
+#FFFAFA [[Variations of white#Snow|Snow]]}}
+#0FC0FC [[List of Crayola colored pencil colors|Spiro Disco Ball]]}}
+#A7FC00 [[Spring bud]]}}
+#00FF7F [[Spring green (color)|Spring green]]}}
+#4682B4 [[Steel blue]]}}
+#FADA5E [[Stil de grain yellow]]}}
+#990000 [[Variations of red#OU Crimson|Stizza]]}}
+#E4D96F [[Straw (colour)|Straw]]}}
+#FFCC33 [[Gold (color)#Sunglow|Sunglow]]}}
+#FAD6A5 [[Sunset (color)|Sunset]]}}
+#D2B48C [[Tan (color)|Tan]]|html_ Tan}}
+#F94D00 [[Variations of orange#Tangelo|Tangelo]]}}
+#F28500 [[Tangerine (color)|Tangerine]]}}
+#FFCC00 [[School bus yellow#Computer monitor display|Tangerine yellow]]
+#483C32 [[Taupe]]}}
+#8B8589 [[Taupe#Taupe gray|Taupe gray]]}}
+#D0F0C0 [[Variations of green#Tea green|Tea green]]}}
+#F88379 [[Variations of orange#Tea rose|Tea rose (orange)]]}}
+#F4C2C2 [[Rose (color)#Tea Rose|Tea rose (rose)]]}}
+#008080 [[Teal (color)#Teal|Teal]]|html_ Teal}}
+#367588 [[Teal (color)#Teal blue|Teal blue]]}}
+#006D5B [[Teal (color)#Teal green|Teal green]]}}
+#CD5700 [[Tenn?|Tenn? (Tawny)]]}}
+#E2725B [[Terracotta#Color|Terra cotta]]}}
+#D8BFD8 [[Thistle (color)|Thistle]]}}
+#DE6FA1 [[Rose (color)#Thulian Pink|Thulian pink]]}}
+#FC89AC [[Rose (color)#Tickle Me Pink|Tickle Me Pink]]}}
+#0ABAB5 [[Tiffany Blue#Tiffany Blue|Tiffany Blue]]}}
+#E08D3C [[Tiger's eye]]}}
+#DBD7D2 [[List of Crayola crayon colors#Standard Colors|Timberwolf]]}}
+#EEE600 [[Titanium yellow]]}}
+#FF6347 [[Tomato (color)|Tomato]]}}
+#746CC0 [[List of Crayola colored pencil colors#Standard colors|Toolbox]]}}
+#FFC87C [[Topaz]]}}
+#FD0E35 [[Scarlet (color)#Tractor red|Tractor red]]}}
+#808080 [[Grey|Trolley Grey]]}}
+#00755E [[Jungle green#Tropical rain forest|Tropical rain forest]]}}
+#0073CF [[True Blue (color)|True Blue]]}}
+#417DC1 [[Tufts Blue]]}}
+#DEAA88 [[List of Crayola crayon colors|Tumbleweed]]}}
+#B57281 [[Rose (color)#Turkish Rose|Turkish rose]]}}
+#30D5C8 [[Turquoise (color)|Turquoise]]|html_ Turquoise}}
+#00FFEF [[Turquoise (color)#Turquoise Blue|Turquoise blue]]}}
+#A0D6B4 [[Turquoise (color)#Turquoise Green|Turquoise green]]}}
+#66424D [[Tuscan red]]}}
+#8A496B [[Lavender (color)#Twilight lavender|Twilight lavender]]}}
+#66023C [[Tyrian purple#Tyrian purple|Tyrian purple]]}}
+#0033AA [[University of Arizona#School colors|UA blue]]}}
+#D9004C [[University of Arizona#School colors|UA red]]}}
+#8878C3 [[Lavender (color)#?be|Ube]]}}
+#536895 [[UCLA Blue]]}}
+#FFB300 [[UCLA|UCLA Gold]]}}
+#3CD070 [[List of Crayola colored pencil colors#Standard colors|UFO Green]]}}
+#120A8F [[Ultramarine]]}}
+#4166F5 [[Ultramarine#Ultramarine blue|Ultramarine blue]]}}
+#FF6FFF [[Variations of magenta#Ultra pink|Ultra pink]]}}
+#635147 [[Umber#Umber|Umber]]}}
+#5B92E5 [[Azure (color)#United Nations blue|United Nations blue]]}}
+#B78727 [[Gold (color)#University of California Gold|University of California Gold]]}}
+#FFFF66 [[List of Crayola crayon colors#Standard Colors|Unmellow Yellow]]}}
+#014421 [[Variations of green#UP Forest green|UP Forest green]]}}
+#7B1113 [[Maroon (color)#UP maroon|UP Maroon]]}}
+#AE2029 [[Upsdell red]]}}
+#E1AD21 [[Urobilin]]}}
+#990000 [[University of Southern California|USC Cardinal]]}}
+#FFCC00 [[University of Southern California|USC Gold]]}}
+#D3003F [[Crimson#Utah crimson|Utah Crimson]]}}
+<!-- thvermillion -->
+#F3E5AB [[Vanilla (color)|Vanilla]]}}
+#C5B358 [[Gold (color)#Vegas gold|Vegas gold]]}}
+#C80815 [[Venetian red]]}}
+#43B3AE [[Verdigris]]}}
+#E34234 [[Vermilion]]}}
+#A020F0 [[Purple#Purple (X11 color) (veronica)|Veronica]]}}
+#8F00FF [[Violet (color)|Violet]]}}
+#7F00FF [[Violet (color)#Color wheel violet|Violet (color wheel)]]}}
+#8601AF [[RYB color model|Violet (RYB)]]}}
+#EE82EE [[Violet (color)|Violet (web)]]}}
+#40826D [[Viridian]]}}
+#922724 [[Auburn hair#Vivid Auburn|Vivid auburn]]}}
+#9F1D35 [[Burgundy (color)#Vivid burgundy|Vivid burgundy]]}}
+#DA1D81 [[Cerise (color)#Vivid cerise|Vivid cerise]]}}
+#FFA089 [[List of Crayola crayon colors|Vivid tangerine]]}}
+#9F00FF [[Violet (color)#Vivid violet|Vivid violet]]}}
+#004242 [[Rich black|Warm black]]}}
+#645452 [[Wenge (colour)|Wenge]]}}
+#F5DEB3 [[Wheat (color)|Wheat]]}}
+#FFFFFF [[White]]|html_ White
+#F5F5F5 [[Smoke|White smoke]]}}
+#A2ADD0 [[Azure (color)#Wild blue yonder|Wild blue yonder]]}}
+#FF43A4 [[List of Crayola crayon colors#Standard Colors|Wild Strawberry]]}}
+#FC6C85 [[List of Crayola crayon colors#Standard Colors|Wild Watermelon]]}}
+#722F37 [[Wine (color)|Wine]]}}
+#C9A0DC [[Wisteria (color)|Wisteria]]}}
+#738678 Xanadu}}
+#0F4D92 [[Yale Blue]]}}
+#FFFF00 [[Yellow]]|html_ Yellow
+#EFCC00 [[Variations of yellow#Yellow (Munsell)|Yellow (Munsell)]]}}
+#FFD300 [[Variations of yellow#Yellow (NCS) (psychological primary yellow)|Yellow (NCS)]]}}
+#FFEF00 [[Yellow#Electric yellow vs. process yellow|Yellow (process)]]}}
+#FEFE33 [[RYB color model|Yellow (RYB)]]}}
+#9ACD32 [[Chartreuse (color)#Yellow-green|Yellow-green]]}}
+#FFAE42 [[List of Crayola crayon colors|Yellow Orange]]}}
+#0014A8 [[Zaffre]]}}
+#2C1608 [[Zinnwaldite|Zinnwaldite brown]]}}
