@@ -49,7 +49,7 @@ var ICONS_GROUP
 ; MUI end ------
 
 Name "${PRODUCT_NAME} ${PRODUCT_VERSION}"
-OutFile "x64\Release\SpectroHelpSetupEn109.exe"
+OutFile "x64\Release\SpectroHelpSetupEn-1.0.9.exe"
 ;InstallDir "$PROGRAMFILES\SpectroHelp"
 InstallDir "$PROGRAMFILES64\SpectroHelp"
 InstallDirRegKey HKLM "${PRODUCT_DIR_REGKEY}" ""

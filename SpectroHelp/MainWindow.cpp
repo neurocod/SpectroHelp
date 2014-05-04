@@ -81,7 +81,7 @@ void MainWindow::createToolbars() {
 		addVideoMenu(toolbar);
 		addOpenMenu(toolbar);
 		addSaveMenu(toolbar);
-
+		
 		toolbar->insertSeparator(0);
 		toolbar << m_spectroToolbars->createActionTooltipVisibility();
 
